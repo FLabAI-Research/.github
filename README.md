@@ -1,2 +1,0 @@
-# .github
-SigmaFi Research Team
